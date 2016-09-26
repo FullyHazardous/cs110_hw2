@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-<html>
 <script>
 const f = function(b) 
 {
@@ -15,4 +13,3 @@ const factorial = function(m)
 };
   factorial(10);
   </script>
-  </html>
